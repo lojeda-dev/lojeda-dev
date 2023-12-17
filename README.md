@@ -3,7 +3,7 @@
 
 <br>
 
-- 🏢 Soy un estudiante autodidacta enfocado en programación, especialmente interesado en el desarrollo Backend.
+- 🏢 Soy un estudiante autodidacta en programación, especialmente interesado en el desarrollo Backend.
 - 🔭 Actualmente, mi enfoque principal se encuentra en un proyecto integrador utilizando Java.
 -  🌱 Mi aprendizaje se centra en tecnologías del lado del servidor, y estoy explorando áreas como Inteligencia Artificial y Ciberseguridad, campos que encuentro fascinantes y desafiantes. También busco mejorar mi dominio de JavaScript y explorar frameworks como React o Angular.
 - 👯 Estoy en búsqueda activa de mi primer desafío laboral en la industria IT, ansioso por aplicar mis conocimientos y crecer profesionalmente.
